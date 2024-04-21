@@ -20,5 +20,7 @@
  	<a href="https://t.me/lyricalpaws">Telegram</a>
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=lyricalpaws&show_icons=true&theme=radical">
+	<img src="https://forthebadge.com/images/badges/built-with-science.png">
+	<img src="https://forthebadge.com/images/badges/it-works-dont-know-how.png">
+	<img src="https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.png">
 </p>
