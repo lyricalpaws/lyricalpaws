@@ -26,5 +26,5 @@
 </p>
 
 <p align="center">
-	![lunar-client-achievement](https://github.com/user-attachments/assets/e0be57db-91db-429d-b0cc-3c7bbff51def)
+	Feel free to PR our stuff, we don't bite!
 </p>
