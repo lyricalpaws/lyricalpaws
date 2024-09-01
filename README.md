@@ -26,5 +26,5 @@
 </p>
 
 <p align="center">
-	<img src="https://camo.githubusercontent.com/63ce4e925034be378dde072cee56d0bc1aa589e3a11653575a270e346c70d891/68747470733a2f2f692e616c6578666c69706e6f74652e6465762f346839336775792e706e67">
+	![lunar-client-achievement](https://github.com/user-attachments/assets/e0be57db-91db-429d-b0cc-3c7bbff51def)
 </p>
